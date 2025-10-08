@@ -1,0 +1,4 @@
+theme: "resume-a4"
+baseURL: "/"
+languageCode: "en-us"
+title: "Resume"
