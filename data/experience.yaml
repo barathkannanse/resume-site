@@ -1,36 +1,28 @@
-- company: Company 1
-  roles:
-    - role: Data Scientist
-      details: |
-        Lorem ipsum dolor sit amet, consectetur adipiscing elit. Phasellus ornare sollicitudin fringilla.
-        Aenean nec volutpat arcu. Maecenas quis tempus risus. Curabitur condimentum ligula in erat pharetra porta. 
-        Nam suscipit nisi a bibendum lacinia. Donec aliquet, nibh dignissim placerat efficit
-      date: 10.2020 -  Present
-
-- company: Company 2
-  page: 1
-  roles: 
-    - role: Senior Software Developer
-      tools: SQL, Flink, Kafka
-      details: |
-        Lorem ipsum dolor sit amet, consectetur adipiscing elit. Phasellus ornare sollicitudin fringilla.
-        Aenean nec volutpat arcu. Maecenas quis tempus risus.
-      date: 06.2019 - 10.2020
-    
-    - role: Junior Software Developer
-      tools: HTML, PHP, CSS
-      date: 10.2018 - 06.2019
-      details: |
-        Lorem ipsum dolor sit amet, consectetur adipiscing elit. Phasellus ornare sollicitudin fringilla.
-        Aenean nec volutpat arcu. Maecenas quis tempus risus.
-
-- company: Company 1
-  page: 2
-  roles:
-    - role: Junior Software Developer
-      tools: C#, Python, Postgresql
-      details: |
-        Lorem ipsum dolor sit amet, consectetur adipiscing elit. Phasellus ornare sollicitudin fringilla.
-        Aenean nec volutpat arcu. Maecenas quis tempus risus. Curabitur condimentum ligula in erat pharetra porta. 
-        Nam suscipit nisi a bibendum lacinia. Donec aliquet, nibh dignissim placerat efficit
-      date: 2017 - 2018
+- company: "Damper Technology Limited"
+  role: "Data Scientist"
+  location: "Coimbatore, IN"
+  period: "Jan 2024 – Jul 2024"
+  bullets:
+    - "Engineered a Python-based predictive maintenance system on 400k+ IoT readings (FFT, NumPy, Pandas, regression) → downtime −20%, >$100K/yr savings."
+    - "Built forecasting + ETL pipelines in Docker to automate data consolidation → forecast accuracy +33%, production efficiency +10%."
+- company: "Damper Technology Limited"
+  role: "Business Intelligence Analyst"
+  location: "Coimbatore, IN"
+  period: "Nov 2022 – Aug 2023"
+  bullets:
+    - "Led a team of 4 to automate ETL for 3M+ global sales records (Python, SQL, PySpark) → processing time −25%."
+    - "Designed Tableau dashboards integrated with Snowflake → ROI +12%, optimized budget allocation +15%."
+- company: "Orbinox"
+  role: "Financial Data Analyst"
+  location: "Coimbatore, IN"
+  period: "Jul 2021 – Oct 2022"
+  bullets:
+    - "Built ARIMA forecasting across 1M+ financial records → better resource allocation (+15%) and inventory planning."
+    - "SQL + K-Means for price optimization of knife-gate valves → ~$20K revenue, overhead −8%."
+- company: "Premier Foundries"
+  role: "Machine Learning Intern"
+  location: "Coimbatore, IN"
+  period: "Sep 2020 – Mar 2021"
+  bullets:
+    - "XGBoost model to optimize blast-furnace performance → efficiency +8%."
+    - "Improved anomaly detection by 6% via IQR, Z-score and rolling statistics on high-frequency sensors."

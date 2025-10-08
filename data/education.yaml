@@ -1,15 +1,10 @@
-- name: Msc. Industrial Engineering
-  university: Yildiz Technical University
-  location: Istanbul, TR
-  more: with Thesis # Optional field, if you want to add a non-standard line.
-  link: https://... # Optional field, include a link to your project.
-  date: 2019- 2021
-  gpa: 3.71 / 4.00
-  details: >
-    Include details if you like to... 
-
-- name: Bsc. Industrial Engineering
-  university: Gazi University
-  location: Ankara, TR
-  date: 2013 - 2017
-  gpa : 3.35 / 4.00
+- degree: "MS, Management Information Systems — Statistics & Data Science"
+  school: "University of Arizona, Eller College of Management"
+  location: "Tucson, AZ"
+  date: "Dec 2025"
+  notes:
+    - "Eller Promising Analyst Scholarship Recipient"
+- degree: "BE, Mechanical Engineering (Specialization: Data Science & Machine Learning)"
+  school: "Coimbatore Institute of Technology"
+  location: "Coimbatore, IN"
+  date: "May 2021"

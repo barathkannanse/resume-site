@@ -1,17 +1,17 @@
-projects:
-- title: "Simulated Annealing for Traveling Salesman Problem"
-  subtitle: "Some University"
-  date: "2016"
-  details: |
-    Lorem ipsum dolor sit amet
-
-- title: "Resume - A4"
-  subtitle: "mertbakir.gitlab.io/resume"
-  link: "https://gitlab.com/mertbakir/resume-a4"
-  date: "2020"
-  details: |
-    Bring CI/CD to your resume using YAML and Git."
-  links:
-  - title: Available in GitLab
-    url: https://gitlab.com/mertbakir/resume-a4
-    icon: fab fa-gitlab
+- title: "AI-Enhanced Investment Strategy via Sentiment Analysis"
+  date: "Nov 2023"
+  bullets:
+    - "NLP pipeline (FinBERT) + Q-learning for portfolio optimization; improved risk-adjusted returns vs baseline."
+    - "Deployed on AWS Lambda/EC2 with CloudWatch; handled high-throughput batch + real-time processing."
+- title: "Audio Emotion Recognition (CNN)"
+  date: "Oct 2023"
+  bullets:
+    - "CNN on spectrograms to classify emotions from speech; strong held-out accuracy."
+- title: "Real-Time E-commerce Price Scraper"
+  date: "Sep 2023"
+  bullets:
+    - "Python scraper + scheduler tracking competitor prices and alerting on deviations for dynamic pricing."
+- title: "Resume (PDF)"
+  link: "/Barathkannan_Resume.pdf"
+  bullets:
+    - "Download my full resume as a PDF."

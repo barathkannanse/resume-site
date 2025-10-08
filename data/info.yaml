@@ -1,0 +1,15 @@
+name: "Barathkannan S E"
+role: "Data Scientist"
+location: "Tucson, AZ"
+email: "barathkannanse@arizona.edu"
+phone: "+1 520-460-9255"
+links:
+  - label: "LinkedIn"
+    url: "https://www.linkedin.com/in/barathkannanse/"
+  - label: "GitHub"
+    url: "https://github.com/barathkannanse"
+  - label: "Resume (PDF)"
+    url: "/Barathkannan_Resume.pdf"
+about: |
+  Data scientist with 3+ years’ experience building ML systems and data pipelines that cut costs and improve decisions.
+  Comfortable taking models to production on cloud stacks like AWS/Azure/GCP. Seeking roles where I can ship real impact.
