@@ -1,4 +1,8 @@
 baseURL = "/"
-title = "Barath Kannan — Resume"
+languageCode = "en-us"
+title = "Resume | Barath Kannan"
 theme = "resume-a4"
-disableKinds = ["taxonomy","term"]
+
+[params]
+name = "Barath Kannan"
+pdf_url = "/Barathkannan_Resume.pdf"
